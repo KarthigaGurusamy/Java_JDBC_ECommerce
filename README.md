@@ -27,8 +27,8 @@ This java console application for E-Commerce has the following sections:
         👀 View Orders 
         📤 Logout
 
--> '💻-Java' for coding 
--> '🗃️-Database' for storing and retrieving data.
+    -> '💻-Java' for coding 
+    -> '🗃️-Database' for storing and retrieving data.
 
 Tables used for each sections:
 -----------------------------
